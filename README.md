@@ -1,0 +1,2 @@
+# Deep_Learning_CNN_Model-using-python
+Laryngeal_cancer_detection_using_deep_learning_CNN_model
